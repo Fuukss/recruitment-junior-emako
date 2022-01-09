@@ -1,0 +1,9 @@
+*.sqlite
+*.log
+*~
+.*~
+*.swp
+.*swp
+*.csv
+*.txt
+*.json
